@@ -1,5 +1,5 @@
 # General Description
-* This project requires the download of [yolov3.weights](https://pjreddie.com/media/files/yolov3.weights) to work.
+* **This project requires the download of [yolov3.weights](https://pjreddie.com/media/files/yolov3.weights) to work**.
 * This project processes an image frame of video captured by a camera on moving vehicle to classify and draw bounding box around vehicles in the field of view.
 * The details of bounding boxes are stored in a data structure. 
 * This project was developed from code and instructions provided by Dr Andreas Haja as part of Udacity's Sensor Fusion Nano Degree program.
